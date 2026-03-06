@@ -1,0 +1,5 @@
+div.typst-preview-block > svg {
+    width: 100%;
+    height: auto;
+    background-color: #ffffff;
+}
